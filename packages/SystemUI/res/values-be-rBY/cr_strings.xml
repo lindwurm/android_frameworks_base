@@ -154,11 +154,11 @@
     <string name="quick_settings_locale_label">Мова</string>
     <string name="quick_settings_locale_more_locales_toast">Калі ласка, наладзьце некалькі моў</string>
     <!-- Google lens screenshot notification -->
-    <string name="lens">Lens</string>
+    <string name="lens">Аб’ектыў</string>
     <!-- Bluetooth dialog -->
-    <string name="turn_on_bluetooth">Use Bluetooth</string>
-    <string name="bluetooth_is_off">Bluetooth is off</string>
-    <string name="tap_a_device_to_connect">Tap a device to connect</string>
+    <string name="turn_on_bluetooth">Выкарыстоўваць Bluetooth</string>
+    <string name="bluetooth_is_off">Bluetooth адключаны</string>
+    <string name="tap_a_device_to_connect">Выберыце прыладу для падключэння</string>
     <!-- Button to restart SystemUI, within the Restart Options dialog -->
-    <string name="global_action_restart_systemui">SystemUI</string>
+    <string name="global_action_restart_systemui">Сістэмны інтэрфейс</string>
 </resources>
